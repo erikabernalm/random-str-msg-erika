@@ -1,7 +1,7 @@
 # random-str-msg-erika
 Random String Messages
 
-Este paquete permite mostrar mensajes de forma aleatoria en la Terminal. Es un paquete global. 
+📦Este paquete permite mostrar mensajes de forma aleatoria en la Terminal. Es un paquete global. 
 
 Fue desarrollado en el Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript de Platzi...y es mi primer paquete publicado en el listado de paquetes de npm
 
